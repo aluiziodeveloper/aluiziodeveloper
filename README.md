@@ -4,13 +4,11 @@ Olá, sou Jorge Aluizio, fã de tecnologia, desenvolvimento de software e músic
 
 🎓 Bacharel em Sistemas de Informação pela Universidade Cândido Mendes, [UCAM-Campos](https://www.ucam-campos.br/).
 
+🥇 Pós-graduando em Engenharia DevOps pela [Faculdade Focus](https://www.faculdadefocus.com.br/) (cursando).
+
 🖥️ Especialista em Redes de Computadores pela [Cisco Networking Academy](https://www.netacad.com/).
 
-⌨️ Especialista Fullstack Web Development pela [Rocketseat](https://www.rocketseat.com.br/) - Bootcamp GoStack (Node.js, ReactJS e React Native).
-
-🥇 Especialista FullCycle Developer pela [Full Cycle](https://fullcycle.com.br/) - DevOps, Arquitetura e Desenvolvimento de softwares escaláveis, resilientes e de grande porte (cursando).
-
-📝 Educador em cursos de desenvolvimento de aplicativos web e mobile, usando principalmente a stack: Node.js, ReactJS e React Native. [Perfil de instrutor Udemy](https://www.udemy.com/user/jorge-aluizio-alves-de-souza/).
+📝 Educador em cursos de desenvolvimento de aplicativos web e mobile, usando principalmente a stack: Node.js, NestJs, ReactJs e React Native. [Perfil de Instrutor Udemy](https://www.udemy.com/user/jorge-aluizio-alves-de-souza/).
 
 ---
 
