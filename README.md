@@ -8,7 +8,7 @@ Olá, sou Jorge Aluizio, fã de tecnologia, desenvolvimento de software e músic
 
 🖥️ Especialista em Redes de Computadores pela [Cisco Networking Academy](https://www.netacad.com/).
 
-📝 Educador em cursos de desenvolvimento de aplicativos web e mobile, usando principalmente a stack: Node.js, NestJs, ReactJs e React Native. [Perfil de Instrutor Udemy](https://www.udemy.com/user/jorge-aluizio-alves-de-souza/).
+📝 Educador em cursos de desenvolvimento de aplicativos web e mobile, usando principalmente a stack: Node.js, NestJs, ReactJs e React Native. [Curso mais recente lançado](https://www.conexnetworks.com.br/).
 
 ---
 
