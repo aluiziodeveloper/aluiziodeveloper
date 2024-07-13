@@ -4,6 +4,8 @@ Olá, sou Jorge Aluizio, fã de tecnologia, desenvolvimento de software e músic
 
 🎓 Bacharel em Sistemas de Informação pela Universidade Cândido Mendes, [UCAM-Campos](https://www.ucam-campos.br/).
 
+🥇 Pós-graduando em Inteligência Artificial e Machine Learning pela [Universidade Anhanguera](https://www.anhanguera.com/) (cursando).
+
 🥇 Pós-graduando em Engenharia DevOps pela [Faculdade Focus](https://www.faculdadefocus.com.br/) (cursando).
 
 🖥️ Especialista em Redes de Computadores pela [Cisco Networking Academy](https://www.netacad.com/).
