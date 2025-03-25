@@ -4,13 +4,13 @@ Olá, sou Jorge Aluizio, fã de tecnologia, desenvolvimento de software e músic
 
 🎓 Bacharel em Sistemas de Informação pela Universidade Cândido Mendes, [UCAM-Campos](https://www.ucam-campos.br/).
 
-🥇 Pós-graduando em Inteligência Artificial e Machine Learning pela [Universidade Anhanguera](https://www.anhanguera.com/) (cursando).
+🥇 Pós-graduado em Inteligência Artificial e Machine Learning pela [Universidade Anhanguera](https://www.anhanguera.com/).
 
-🥇 Pós-graduando em Engenharia DevOps pela [Faculdade Focus](https://www.faculdadefocus.com.br/) (cursando).
+🥇 Pós-graduado em Engenharia DevOps pela [Faculdade Focus](https://www.faculdadefocus.com.br/).
 
 🖥️ Especialista em Redes de Computadores pela [Cisco Networking Academy](https://www.netacad.com/).
 
-📝 Educador em cursos de desenvolvimento de aplicativos web e mobile, usando principalmente a stack: Node.js, NestJs, ReactJs e React Native. [Curso mais recente lançado](https://www.conexnetworks.com.br/).
+📝 Educador em cursos de desenvolvimento de aplicativos web e mobile, usando principalmente a stack: Node.js, NestJs, ReactJs e React Native. [Confira aqui!](https://www.conexnetworks.com.br/).
 
 ---
 
